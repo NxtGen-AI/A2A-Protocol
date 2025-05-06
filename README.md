@@ -17,8 +17,7 @@
 <!-- /TOC -->
 
     
-The Agent2Agent Protocol (A2A), created by Google, is a set of rules that helps different AI agents talk to each other and work together, even if they are built using different tools or by different companies. Its main goal is to make it easier for these agents to share information, coordinate tasks, and team up effectively, especially in complicated systems where many agents are involved.
-
+The Agent2Agent Protocol (A2A), created by Google, is a set of rules that helps different AI agents talk to each other and work together, even if they are built using different tools or by different companies. Its main goal is to make it easier for these agents to share information, coordinate tasks, and team up effectively, especially in complicated systems where many agents are involved. 
 
 ## See A2A in Action
 
