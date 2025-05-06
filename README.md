@@ -12,7 +12,6 @@
     - [Typical Flow](#typical-flow)
   - [Getting Started](#getting-started)
   - [A2A and MCP](#A2A-and-MCP)
-  - [What's next](#whats-next)
   
 
 <!-- /TOC -->
@@ -120,18 +119,4 @@ Run the agent with desired options:
    uv run . --host 0.0.0.0 --port 8080
    ```
 
-## What's next
-
-Future plans include improvements to the protocol itself and enhancements to the samples:
-
-**Protocol Enhancements:**
-
-- **Agent Discovery:**
-  - Formalize inclusion of authorization schemes and optional credentials directly within the `AgentCard`.
-- **Agent Collaboration:**
-  - Investigate a `QuerySkill()` method for dynamically checking unsupported or unanticipated skills.
-- **Task Lifecycle & UX:**
-  - Support for dynamic UX negotiation _within_ a task (e.g., agent adding audio/video mid-conversation).
-- **Client Methods & Transport:**
-  - Explore extending support to client-initiated methods (beyond task management).
 
